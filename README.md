@@ -9,7 +9,7 @@ O objetivo foi praticar **HTML5** e **CSS3** com foco em **responsividade**, ada
 
 ![Screenshot do Projeto](./preview.jpg)
 
-👉 [Acesse o projeto online](https://brrn91.github.io/site-responsivo/)
+👉 [Acesse o projeto online](https://brrn91.github.io/projeto-login-cev/)
 
 ---
 
